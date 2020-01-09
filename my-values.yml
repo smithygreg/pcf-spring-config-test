@@ -7,3 +7,8 @@ Complex1:
   SubObject: SubObjectValue
   SubInteger: 123
   SubBool: true
+People:
+  - FirstName: Greg
+    LastName: Johnson
+  - FirstName: Brad
+    LastName: Chitwood
