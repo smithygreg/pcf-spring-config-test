@@ -5,3 +5,5 @@ List1:
   - Value2
 Complex1:
   SubObject: SubObjectValue
+  SubInteger: 123
+  SubBool: true
