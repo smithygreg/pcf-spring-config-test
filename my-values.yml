@@ -1,5 +1,5 @@
 Value1: some-val
-Value2: another-val
+Value2: FromGit
 List1:
   - Value1
   - Value2
