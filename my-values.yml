@@ -1,2 +1,7 @@
 Value1: some-val
 Value2: another-val
+List1:
+  - Value1
+  - Value2
+Complex1:
+  SubObject: SubObjectValue
